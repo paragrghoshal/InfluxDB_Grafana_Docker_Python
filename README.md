@@ -1,4 +1,4 @@
-One way to integrate Influxdb-Grafana-Docker and Python is showed in this repository.
+One way to integrate Influxdb-Grafana-Docker and Python is demonstrated in this repository.
 
 Steps for execution
 
